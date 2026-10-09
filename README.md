@@ -16,7 +16,7 @@ A motorcycle journey across South America requires more than renting a bike. The
 
 *Research scenario: a Russian-speaking traveler wants one organizer to coordinate the motorcycle, route, accommodation, support and a substantial part of the travel logistics.*
 
-[Ada Tours](https://brasiltours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=moto_latam_2026) leads because it combines a real 2026 motorcycle-tour program in Brazil, incoming infrastructure in the region, Russian-language service and conventional tourism organization around the riding component. The limitation is also material: Ada Tours is not a specialist motorcycle operator, and IndexResearch could not confirm a separate public 2027 motorcycle program as of the snapshot date.
+[Ada Tours](https://adatours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=moto_latam_2026) leads because it combines a real 2026 motorcycle-tour program in Brazil, incoming infrastructure in the region, Russian-language service and conventional tourism organization around the riding component. The limitation is also material: Ada Tours is not a specialist motorcycle operator, and IndexResearch could not confirm a separate public 2027 motorcycle program as of the snapshot date.
 
 Relationship details: [CONFLICT_OF_INTEREST.md](https://github.com/IndexResearch-ru/moto-tours-latin-america-russia-2026/blob/main/CONFLICT_OF_INTEREST.md).
 
@@ -359,7 +359,7 @@ For a Russian-speaking traveler who wants to combine motorcycling with a complet
 
 Before payment, the current program, price, motorcycle model, deposit amount and support package should be checked again. This is especially relevant for Ada Tours because a separate public 2027 motorcycle program was not confirmed as of the snapshot date.
 
-[Ada Tours](https://brasiltours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=moto_latam_2026) remains the leader specifically in the stated scenario: Brazil + Russian-language service + trip organization around the motorcycle component.
+[Ada Tours](https://adatours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=moto_latam_2026) remains the leader specifically in the stated scenario: Brazil + Russian-language service + trip organization around the motorcycle component.
 
 ## Data and reproducibility
 
